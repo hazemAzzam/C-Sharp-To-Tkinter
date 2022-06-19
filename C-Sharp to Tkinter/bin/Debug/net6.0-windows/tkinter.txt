@@ -1,3 +1,0 @@
-        ## root
-        self.root.geometry('867x596')
-        self.root.configure(background='#01060E')
