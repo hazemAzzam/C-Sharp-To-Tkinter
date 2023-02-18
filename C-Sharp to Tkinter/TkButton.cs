@@ -28,7 +28,10 @@ namespace C_Sharp_to_Tkinter
                 background.Put(button.Name, button.Width, button.Height);
                 lines.Add(background.draw(button.BackgroundImage));
             }
-            string line = $"        self.{button.Name} = Button({tkinter.Draw()}, text='{button.Text}', bd={button.FlatAppearance.BorderSize}, font={font.Get()}";
+            TkColor foreColor = new TkColor();
+            foreColor.put(button.ForeColor);
+
+            string line = $"        self.{button.Name} = Button({tkinter.Draw()}, text='{button.Text}', bd={button.FlatAppearance.BorderSize}, font={font.Get()}, highlightbackground={foreColor.get()}";
             if (button.BackgroundImage != null)
             {
                 line += $", image=self.{button.Name}_img";

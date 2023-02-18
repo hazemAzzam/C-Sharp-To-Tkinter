@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub Projects\\New folder\\C-Sharp-To-Tkinter\\C-Sharp to Tkinter\\C-Sharp to Tkinter.csproj": {}
+    "C:\\Users\\hazem\\source\\repos\\C-Sharp-To-Tkinter\\C-Sharp to Tkinter\\C-Sharp to Tkinter.csproj": {}
   },
   "projects": {
-    "D:\\GitHub Projects\\New folder\\C-Sharp-To-Tkinter\\C-Sharp to Tkinter\\C-Sharp to Tkinter.csproj": {
+    "C:\\Users\\hazem\\source\\repos\\C-Sharp-To-Tkinter\\C-Sharp to Tkinter\\C-Sharp to Tkinter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub Projects\\New folder\\C-Sharp-To-Tkinter\\C-Sharp to Tkinter\\C-Sharp to Tkinter.csproj",
+        "projectUniqueName": "C:\\Users\\hazem\\source\\repos\\C-Sharp-To-Tkinter\\C-Sharp to Tkinter\\C-Sharp to Tkinter.csproj",
         "projectName": "C-Sharp to Tkinter",
-        "projectPath": "D:\\GitHub Projects\\New folder\\C-Sharp-To-Tkinter\\C-Sharp to Tkinter\\C-Sharp to Tkinter.csproj",
-        "packagesPath": "C:\\Users\\Hazem Azzam\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub Projects\\New folder\\C-Sharp-To-Tkinter\\C-Sharp to Tkinter\\obj\\",
+        "projectPath": "C:\\Users\\hazem\\source\\repos\\C-Sharp-To-Tkinter\\C-Sharp to Tkinter\\C-Sharp to Tkinter.csproj",
+        "packagesPath": "C:\\Users\\hazem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hazem\\source\\repos\\C-Sharp-To-Tkinter\\C-Sharp to Tkinter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Hazem Azzam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hazem\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows7.0"
+          "net6.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -59,5 +59,15 @@ namespace C_Sharp_to_Tkinter.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_close_500px_1 {
+            get {
+                object obj = ResourceManager.GetObject("icons8_close_500px_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

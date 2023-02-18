@@ -21,7 +21,7 @@ namespace C_Sharp_to_Tkinter
         public void draw()
         {
             List<string> lines = new List<string>();
-            lines.Add($"        self.{label.Name} = Label({tkinter.Draw()}, text='{label.Text}', font={font.Get()}, bd=0)");
+            lines.Add($"        self.{label.Name} = Label({tkinter.Draw()}, text='{label.Text}', font={font.Get()})");
             lines.Add($"        self.{label.Name}{tkinter.Place()})");
 
             File.AppendAllLines("tkinter.txt", lines.ToArray());

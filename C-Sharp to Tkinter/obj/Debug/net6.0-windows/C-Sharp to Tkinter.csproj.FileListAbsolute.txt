@@ -16,3 +16,21 @@ C:\Users\Hazem Azzam\source\repos\C-Sharp to Tkinter\C-Sharp to Tkinter\obj\Debu
 C:\Users\Hazem Azzam\source\repos\C-Sharp to Tkinter\C-Sharp to Tkinter\obj\Debug\net6.0-windows\C-Sharp to Tkinter.genruntimeconfig.cache
 C:\Users\Hazem Azzam\source\repos\C-Sharp to Tkinter\C-Sharp to Tkinter\obj\Debug\net6.0-windows\ref\C-Sharp to Tkinter.dll
 C:\Users\Hazem Azzam\source\repos\C-Sharp to Tkinter\C-Sharp to Tkinter\obj\Debug\net6.0-windows\C_Sharp_to_Tkinter.Properties.Resources.resources
+C:\Users\hazem\source\repos\C-Sharp-To-Tkinter\C-Sharp to Tkinter\bin\Debug\net6.0-windows\C-Sharp to Tkinter.exe
+C:\Users\hazem\source\repos\C-Sharp-To-Tkinter\C-Sharp to Tkinter\bin\Debug\net6.0-windows\C-Sharp to Tkinter.deps.json
+C:\Users\hazem\source\repos\C-Sharp-To-Tkinter\C-Sharp to Tkinter\bin\Debug\net6.0-windows\C-Sharp to Tkinter.runtimeconfig.json
+C:\Users\hazem\source\repos\C-Sharp-To-Tkinter\C-Sharp to Tkinter\bin\Debug\net6.0-windows\C-Sharp to Tkinter.dll
+C:\Users\hazem\source\repos\C-Sharp-To-Tkinter\C-Sharp to Tkinter\bin\Debug\net6.0-windows\C-Sharp to Tkinter.pdb
+C:\Users\hazem\source\repos\C-Sharp-To-Tkinter\C-Sharp to Tkinter\obj\Debug\net6.0-windows\C-Sharp to Tkinter.csproj.AssemblyReference.cache
+C:\Users\hazem\source\repos\C-Sharp-To-Tkinter\C-Sharp to Tkinter\obj\Debug\net6.0-windows\C_Sharp_to_Tkinter.Form1.resources
+C:\Users\hazem\source\repos\C-Sharp-To-Tkinter\C-Sharp to Tkinter\obj\Debug\net6.0-windows\C_Sharp_to_Tkinter.Properties.Resources.resources
+C:\Users\hazem\source\repos\C-Sharp-To-Tkinter\C-Sharp to Tkinter\obj\Debug\net6.0-windows\C-Sharp to Tkinter.csproj.GenerateResource.cache
+C:\Users\hazem\source\repos\C-Sharp-To-Tkinter\C-Sharp to Tkinter\obj\Debug\net6.0-windows\C-Sharp to Tkinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hazem\source\repos\C-Sharp-To-Tkinter\C-Sharp to Tkinter\obj\Debug\net6.0-windows\C-Sharp to Tkinter.AssemblyInfoInputs.cache
+C:\Users\hazem\source\repos\C-Sharp-To-Tkinter\C-Sharp to Tkinter\obj\Debug\net6.0-windows\C-Sharp to Tkinter.AssemblyInfo.cs
+C:\Users\hazem\source\repos\C-Sharp-To-Tkinter\C-Sharp to Tkinter\obj\Debug\net6.0-windows\C-Sharp to Tkinter.csproj.CoreCompileInputs.cache
+C:\Users\hazem\source\repos\C-Sharp-To-Tkinter\C-Sharp to Tkinter\obj\Debug\net6.0-windows\C-Sharp to Tkinter.dll
+C:\Users\hazem\source\repos\C-Sharp-To-Tkinter\C-Sharp to Tkinter\obj\Debug\net6.0-windows\refint\C-Sharp to Tkinter.dll
+C:\Users\hazem\source\repos\C-Sharp-To-Tkinter\C-Sharp to Tkinter\obj\Debug\net6.0-windows\C-Sharp to Tkinter.pdb
+C:\Users\hazem\source\repos\C-Sharp-To-Tkinter\C-Sharp to Tkinter\obj\Debug\net6.0-windows\C-Sharp to Tkinter.genruntimeconfig.cache
+C:\Users\hazem\source\repos\C-Sharp-To-Tkinter\C-Sharp to Tkinter\obj\Debug\net6.0-windows\ref\C-Sharp to Tkinter.dll

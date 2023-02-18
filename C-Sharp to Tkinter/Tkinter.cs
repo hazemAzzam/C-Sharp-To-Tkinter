@@ -69,7 +69,7 @@ namespace C_Sharp_to_Tkinter
 
         public string Draw()
         {
-            File.AppendAllText("tkinter.txt", $"        \n## {name}\n");
+            File.AppendAllText("tkinter.txt", $"\n\t\t## {name}\n");
 
             string line = "";
 
@@ -89,7 +89,7 @@ namespace C_Sharp_to_Tkinter
             line += $", relief='{relief}'";
 
             // assign bd
-            line += $", bd={bd}";
+            //line += $", bd={bd}";
 
             return line;
         }
