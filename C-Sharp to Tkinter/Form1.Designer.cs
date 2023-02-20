@@ -34,7 +34,7 @@
             this.name_entry = new System.Windows.Forms.TextBox();
             this.age_entry = new System.Windows.Forms.TextBox();
             this.save_button = new System.Windows.Forms.Button();
-            this.error_label = new System.Windows.Forms.TextBox();
+            this.message_label = new System.Windows.Forms.TextBox();
             this.search_button = new System.Windows.Forms.Button();
             this.clear_button = new System.Windows.Forms.Button();
             this.phone_number_label = new System.Windows.Forms.Label();
@@ -111,18 +111,18 @@
             this.save_button.UseVisualStyleBackColor = false;
             this.save_button.Click += new System.EventHandler(this.save_button_Click);
             // 
-            // error_label
+            // message_label
             // 
-            this.error_label.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(18)))), ((int)(((byte)(11)))));
-            this.error_label.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.error_label.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.error_label.Font = new System.Drawing.Font("Segoe UI Emoji", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.error_label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(229)))), ((int)(((byte)(217)))), ((int)(((byte)(182)))));
-            this.error_label.Location = new System.Drawing.Point(0, 546);
-            this.error_label.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
-            this.error_label.Name = "error_label";
-            this.error_label.Size = new System.Drawing.Size(530, 20);
-            this.error_label.TabIndex = 8;
+            this.message_label.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(18)))), ((int)(((byte)(11)))));
+            this.message_label.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.message_label.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.message_label.Font = new System.Drawing.Font("Segoe UI Emoji", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.message_label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(229)))), ((int)(((byte)(217)))), ((int)(((byte)(182)))));
+            this.message_label.Location = new System.Drawing.Point(0, 546);
+            this.message_label.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
+            this.message_label.Name = "message_label";
+            this.message_label.Size = new System.Drawing.Size(530, 20);
+            this.message_label.TabIndex = 8;
             // 
             // search_button
             // 
@@ -255,7 +255,7 @@
             this.Controls.Add(this.phone_number_label);
             this.Controls.Add(this.clear_button);
             this.Controls.Add(this.search_button);
-            this.Controls.Add(this.error_label);
+            this.Controls.Add(this.message_label);
             this.Controls.Add(this.save_button);
             this.Controls.Add(this.age_entry);
             this.Controls.Add(this.name_entry);
@@ -282,7 +282,7 @@
         private TextBox name_entry;
         private TextBox age_entry;
         private Button save_button;
-        private TextBox error_label;
+        private TextBox message_label;
         private Button search_button;
         private Button clear_button;
         private Label phone_number_label;

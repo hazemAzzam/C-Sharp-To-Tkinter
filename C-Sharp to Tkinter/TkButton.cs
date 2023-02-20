@@ -15,7 +15,7 @@ namespace C_Sharp_to_Tkinter
         public void Put(string parent, Button button)
         {
             this.button = button;
-            font.Put(button.Font.Name, button.Font.Size, button.ForeColor);
+            font.Put(button.Font, button.ForeColor);
             tkinter.Put(parent, button.Name, button.Height, button.Width, button.BackColor, button.Cursor.ToString(), button.FlatStyle.ToString(), button.Location.X, button.Location.Y, button.Dock.ToString(), button.FlatAppearance.BorderSize);
         }
 
@@ -31,7 +31,7 @@ namespace C_Sharp_to_Tkinter
             TkColor foreColor = new TkColor();
             foreColor.put(button.ForeColor);
 
-            string line = $"        self.{button.Name} = Button({tkinter.Draw()}, text='{button.Text}', bd={button.FlatAppearance.BorderSize}, font={font.Get()}, highlightbackground={foreColor.get()}";
+            string line = $"        self.{button.Name} = CButton({tkinter.Draw()}, text='{button.Text}', bd={button.FlatAppearance.BorderSize}, font={font.Get()}, highlightbackground={foreColor.get()}, highlightthickness={button.FlatAppearance.BorderSize}";
             if (button.BackgroundImage != null)
             {
                 line += $", image=self.{button.Name}_img";

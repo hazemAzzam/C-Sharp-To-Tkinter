@@ -15,7 +15,7 @@ namespace C_Sharp_to_Tkinter
         public void Put(string parent, Label label)
         {
             this.label = label;
-            font.Put(label.Font.Name, label.Font.Size, label.ForeColor);
+            font.Put(label.Font.Name, label.Font.Size, label.Font.Style.ToString(), label.ForeColor);
             tkinter.Put(parent, label.Name, label.Height, label.Width, label.BackColor, label.Cursor.ToString(), label.FlatStyle.ToString(), label.Location.X, label.Location.Y, label.Dock.ToString(), 0);
         }
         public void draw()

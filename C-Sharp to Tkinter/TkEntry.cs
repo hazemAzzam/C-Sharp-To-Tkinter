@@ -15,7 +15,7 @@ namespace C_Sharp_to_Tkinter
         public void Put(string parent, TextBox textBox)
         {
             this.textBox = textBox;
-            font.Put(textBox.Font.Name, textBox.Font.Size, textBox.ForeColor);
+            font.Put(textBox.Font.Name, textBox.Font.Size, textBox.Font.Style.ToString(), textBox.ForeColor);
             tkinter.Put(parent, textBox.Name, textBox.Height, textBox.Width, textBox.BackColor, textBox.Cursor.ToString(), textBox.BorderStyle.ToString(), textBox.Location.X, textBox.Location.Y, textBox.Dock.ToString(), 1);
         }
 
